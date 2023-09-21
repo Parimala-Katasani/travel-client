@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/travel-client/static/css/main.9307a72c.css",
+    "main.js": "/travel-client/static/js/main.436be7e4.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/travel-client/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/robo.gif": "/travel-client/static/media/robo.efa702f182e189d942f3.gif",
+    "static/media/hampi.jpg": "/travel-client/static/media/hampi.a0fc9ab7d44cef27c853.jpg",
+    "static/media/hero.png": "/travel-client/static/media/hero.eb0cb1be9e328d73703b.png",
+    "static/media/charminar.jpg": "/travel-client/static/media/charminar.10ad194f1c497443c684.jpg",
+    "static/media/logo1.png": "/travel-client/static/media/logo1.e5860f76eec57d9e2e2d.png",
+    "static/media/belgum.jpeg": "/travel-client/static/media/belgum.57b348f65d05d6356a03.jpeg",
+    "static/media/darjling.jpeg": "/travel-client/static/media/darjling.b0238eb7cbda191e4e07.jpeg",
+    "static/media/jaipur.jpeg": "/travel-client/static/media/jaipur.d736afdba63cad12ce69.jpeg",
+    "static/media/service1.png": "/travel-client/static/media/service1.d033602133ecba7683b1.png",
+    "static/media/manali.jpeg": "/travel-client/static/media/manali.8596969973afacc01222.jpeg",
+    "static/media/munnar.jpeg": "/travel-client/static/media/munnar.eddaf8372f020105641f.jpeg",
+    "index.html": "/travel-client/index.html",
+    "main.9307a72c.css.map": "/travel-client/static/css/main.9307a72c.css.map",
+    "main.436be7e4.js.map": "/travel-client/static/js/main.436be7e4.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/travel-client/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9307a72c.css",
+    "static/js/main.436be7e4.js"
+  ]
+}
