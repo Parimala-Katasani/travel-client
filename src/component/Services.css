@@ -1,0 +1,42 @@
+#services {
+    margin: 8rem 4rem;
+}
+
+.services {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+}
+
+.service {
+    padding: 1.5rem 2rem;
+    text-align: center;
+    background-color: #f8f8f8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.service h3 {
+    color: var(--primary-text);
+}
+
+.service p {
+    color: var(--secondary-text);
+}
+
+.service img {
+    height: 128px;
+    width: 128px;
+}
+
+.services .service {
+    transition: 0.5s ease-in-out;
+}
+
+.service:hover {
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

@@ -1,0 +1,160 @@
+.form-add{
+    width:340px;
+    margin:0 auto;
+    padding:40px;
+    padding-right: 40px;
+    border:2px solid black;
+    border-radius:6px;
+    background-color:whitesmoke;
+  }
+  .form-add label{
+    display:block;
+    font-weight:16px;
+    margin-bottom:5px;
+  }
+  .form-add input{
+    width:100%;
+    padding:10px;
+    margin-bottom:15px;
+    border:3px solid #37a69b;
+    border-radius: 5px;
+  }
+  .form-add button{
+    width: 100%;
+    display: block;
+    background-color: burlywood;
+    color:white;
+    padding:10px;
+    cursor:pointer;
+  }
+  .form-add button:hover{
+    background-color: white;
+    color: #37a69b;
+  }
+  .prof-table{
+    width:90%;
+    margin-left: 80px;
+    border-collapse:collapse;
+    background-color: whitesmoke;
+    font-family: sans-serif;
+  }
+  .prof-table th{
+    border:3px solid #FF715B;
+    background-color: #FF715B;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    height: 25px;
+  }
+  .prof-table td{
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+  }
+  .prof-table tbody tr{
+    border-bottom: 1px solid #dddddd;
+  }
+  .prof-table tbody tr:nth-of-type(even) {
+    background-color: #c5c0c0;
+}
+.prof-table tbody tr:nth-child(even) {
+  font-weight: bold;
+  color: #FF715B;
+}
+.prof-table tbody tr:last-of-type {
+  border-bottom: 2px solid #FF715B;
+}
+  .prof-table tbody button{
+    width:100%;
+    background-color:  #FF715B;
+    margin: 5px 0 0 0;
+    color:white;
+    padding:10px;
+    cursor:pointer;
+  }
+  .prof-table tbody button:hover{
+    background-color: rgb(252, 140, 140);
+    color:  white;
+  }
+  .popup{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content:center;
+    align-items:center;
+  }
+  .form-updates{
+    width:370px;
+    height: 410px;
+    margin:0 auto;
+    padding:20px;
+    padding-right: 40px;
+    border:2px solid black;
+    border-radius:6px;
+    background-color: white;
+    color: black;
+  }
+  .form-updates label{
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: bold;
+
+  }
+  .form-updates input[type="text3"]{
+    /* width:100%;
+    padding:10px;
+    margin-bottom:2px; */
+    padding: 3px;
+    box-shadow: 3px 3px 5px rgb(114, 137, 69);
+    font-size: 14px;
+    font-weight: 600;
+    width: 200px;
+    margin: 5px 0 0 30px;
+    background-color: white;
+    border:3px solid greenyellow;
+    border-radius: 5px;
+  }
+  .form-updates button{
+    width:240px;
+    height:35px;
+    font-size:16px;
+    color: #fff;
+    text-align: center;
+    padding-top: 6px;
+    margin: 29px 0 0 40px;
+    cursor: pointer;
+    background-color: #37a69b;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+
+  }
+  .form-updates button:hover{
+    background-color: white;
+    color: #37a69b;
+  }
+  .popup .popup-cancelpp{
+    width:20%;
+    text-align:center;
+    border:2px solid black;
+    border-radius:10px;
+    margin: 10px 0 10px 10px;
+  }
+  .form-updates input[type="radio"] {
+    /* appearance: none; */
+    /* background-color: #fff; */
+    margin: 5 px 0 0 0;
+    width: 1em;
+    height: 1em;
+    border: 0.15em solid currentColor;
+    border-radius: 50%;
+    margin: 2px 2px;
+  }
+  .txtrd{
+    margin-right: 10px;
+    margin-top: 5px;
+  }

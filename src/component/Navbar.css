@@ -1,0 +1,40 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+.header h1{
+    color: black;
+    font-size: 25px;
+    /* position: relative;
+    left: -100px; */
+}
+nav{
+    display: flex;
+    /* gap: 1rem; */
+    list-style-type: none;
+    
+}
+nav a{
+    text-decoration: none;
+    color: orange;
+    cursor: pointer;
+    font-size: 20px;
+}
+nav a:hover{
+    color: black;
+}
+/* 
+.search input[type=text] {
+    border: 2px solid black;
+    color: orangered;
+}
+.btn-srch{
+    margin-left: 5px;
+    size: 22;
+} */
